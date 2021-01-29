@@ -8,6 +8,12 @@ using System.Net;
 using System.IO;
 using UnityEngine.UI;
 
+/// <summary>
+/// 
+/// Created by James Lamusse
+/// 
+/// </summary>
+
 public class FirebaseManager : MonoBehaviour
 {
 

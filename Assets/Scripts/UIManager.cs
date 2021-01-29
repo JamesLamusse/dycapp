@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/// <summary>
+/// 
+/// Created by James Lamusse
+/// 
+/// </summary>
+
 public class UIManager : MonoBehaviour
 {
 
