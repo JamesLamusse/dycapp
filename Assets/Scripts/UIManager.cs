@@ -3,12 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-/// <summary>
-/// 
-/// SKYCOOKIE STUDIOS, 2020 COPYRIGHT ©
-/// 
-/// </summary>
-
 public class UIManager : MonoBehaviour
 {
 

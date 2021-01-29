@@ -8,12 +8,6 @@ using System.Net;
 using System.IO;
 using UnityEngine.UI;
 
-/// <summary>
-/// 
-/// SKYCOOKIE STUDIOS, 2020 COPYRIGHT ©
-/// 
-/// </summary>
-
 public class FirebaseManager : MonoBehaviour
 {
 
