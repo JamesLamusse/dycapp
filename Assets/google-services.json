@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "847669401971",
+    "firebase_url": "https://dyc-app.firebaseio.com",
+    "project_id": "dyc-app",
+    "storage_bucket": "dyc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847669401971:android:d66885650b91ce3a",
+        "android_client_info": {
+          "package_name": "com.dyc.dycapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847669401971-an3onf6uhairiirdpfksq2bfekibl01c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh8eGuWGgSDwI1jHys6HF8Z9s_PCpmH-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
